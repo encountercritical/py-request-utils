@@ -1,0 +1,7 @@
+001e# service=git-upload-pack
+00000159b9fe14e2a92b10d6eeb4e7ff5fb66d0cd24df030 HEAD
+multi_ack thin-pack side-band side-band-64k ofs-delta shallow deepen-since deepen-not deepen-relative no-progress include-tag multi_ack_detailed allow-tip-sha1-in-want allow-reachable-sha1-in-want no-done symref=HEAD:refs/heads/main filter object-format=sha1 agent=git/github-f8bdfd365d97-Linux
+003db9fe14e2a92b10d6eeb4e7ff5fb66d0cd24df030 refs/heads/main
+003e362e8b2979d09a359e26392385de6cd6c0d4e56a refs/pull/1/head
+0000
+checked: Mon Apr 27 23:34:49 UTC 2026
